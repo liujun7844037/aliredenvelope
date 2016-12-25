@@ -24,7 +24,7 @@
 
 
 ===========================
-本人研究 php,asp，nodejs,mysql，linux，python，xamarin，react native ，seo搜索引擎优化,C#，java，逆向开发，安卓开发，嵌入式，路由器开发 python爬虫 欢迎加我微信指教
+我们专业团队，专业承接网站开发，微信开发，微信小程序开发，手机app开发，本人研究 php,asp，nodejs,mysql，linux，python，xamarin，react native ，seo搜索引擎优化,C#，java，逆向开发，安卓开发，嵌入式，路由器开发 python爬虫 欢迎加我微信指教
 ![0](img/0.png)
 ===========================
 
