@@ -1,6 +1,6 @@
 <?php
 function imagecropper($source_path)
-{
+aaa{
 	$source_info   = getimagesize($source_path);
 	$source_width  = $source_info[0];
 	$source_height = $source_info[1];
